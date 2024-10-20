@@ -3,7 +3,6 @@ n=int(input())
 lst1=[]
 lst2=[]
 updated_list=[]
-minmax_list=[]
 
 for i in range(n):
     a=int(input())
